@@ -1,0 +1,41 @@
+#canvas{
+    width: 600px;
+    height: 400px;
+float: left;
+    background-color: aquamarine;
+    border: 1px solid black;
+}
+#markers{
+    float: left;
+}
+#ol2{
+    width: 4px;
+    height: 4px;
+    background: #000;
+    float: left;
+    
+    cursor: pointer;
+   
+}
+#ol4{
+    width: 6px;
+    height: 6px;
+    background: #000;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+    
+}
+#ol6{
+    width: 8px;
+    height: 8px;
+    background: #000;
+    cursor: pointer;
+    clear: both;
+   
+  
+}
+#color_input{
+    cursor: pointer;
+    float: left;
+}
